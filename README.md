@@ -1,5 +1,12 @@
 # CS307 Operating System Project 2: Android Memory Management
 
+Objectives:   
+* Compile the Android kernel. 
+* Familiarize Android page replacement algorithm 
+* Get the target process’s virtual address and physical address. 
+* Implement a page replacement aging algorithm. 
+
+
 Detailed description and guide can be found in CS356-Project2Guide.pdf
 
 
