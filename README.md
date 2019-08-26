@@ -1,4 +1,4 @@
-# CS307 Operating System Project 2: Android Memory Management
+# CS356 Operating System Project 2: Android Memory Management
 
 Objectives:   
 * Compile the Android kernel. 
