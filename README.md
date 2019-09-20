@@ -7,7 +7,7 @@ Objectives:  
 * Implement a page replacement aging algorithm. 
 
 
-Detailed description and guide can be found in CS356-Project2Guide.pdf
+Detailed description and guide can be found in [Guide](CS356-Project2Guide.pdf)
 
 
 
